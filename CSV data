@@ -1,0 +1,11 @@
+Date,Factory_ID,Machine_ID,Production_Units,Defective_Units,Machine_Temperature_C,Energy_Consumption_kWh,Vibration_Level_mm_s,Downtime_Minutes,Predictive_Maintenance,IoT_Sensor_Status,Automation_Level,Worker_Shifts,OEE_Percentage
+2025-01-01,F001,M101,1200,15,68,450,2.3,10,No,Active,High,25,92
+2025-01-02,F001,M102,1150,20,72,470,2.8,15,No,Active,High,24,90
+2025-01-03,F002,M103,1300,12,65,430,2.1,8,No,Active,Medium,28,94
+2025-01-04,F002,M104,1100,30,78,500,3.5,25,Yes,Warning,Medium,22,85
+2025-01-05,F003,M105,1400,10,63,420,1.9,5,No,Active,High,30,96
+2025-01-06,F003,M106,1050,35,82,520,4.0,35,Yes,Critical,Low,20,80
+2025-01-07,F004,M107,1250,18,70,460,2.5,12,No,Active,Medium,26,91
+2025-01-08,F004,M108,1180,25,75,490,3.0,20,Yes,Warning,Medium,23,87
+2025-01-09,F005,M109,1350,14,67,440,2.2,7,No,Active,High,29,95
+2025-01-10,F005,M110,1000,40,85,540,4.5,40,Yes,Critical,Low,18,78
